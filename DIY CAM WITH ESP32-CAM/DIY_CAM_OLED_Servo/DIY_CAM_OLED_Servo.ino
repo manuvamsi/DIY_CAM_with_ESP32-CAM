@@ -23,6 +23,10 @@
 // These sketches are tested with 2.0.4 ESP32 Arduino Core
 // https://github.com/espressif/arduino-esp32/releases/tag/2.0.4
 
+
+// add your lables at  270 and 276 code line according to your application
+
+
 /* Includes ---------------------------------------------------------------- */
 #include <Object_detection_inferencing.h> // if you using this code chanage acccording to your model name "xxx.h"
 #include "edge-impulse-sdk/dsp/image/image.hpp"
