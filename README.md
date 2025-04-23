@@ -100,10 +100,10 @@ The circuit includes optional components like a servo and OLED for enhanced func
 - Connect as shown, ensuring proper voltage (5V for ESP32-CAM, 3.3V for OLED).
 
 ## Example Use Cases
-- **Smart Doorbell**: Detect visitors or packages.
-- **Wildlife Cam**: Identify animals in your backyard.[](https://eloquentarduino.com/posts/esp32-cam-object-detection)
-- **Inventory Tracker**: Count items on a shelf.
-- **Robot Vision**: Guide a robot to pick up specific objects.
+- **Package Detection**
+- **Detected object will be classified**
+- **Inventory Maintanence**.
+
 
 ## Troubleshooting
 - **No IP Address?** Check Wi-Fi credentials and ensure you’re on a 2.4 GHz network. Reset the ESP32-CAM.
